@@ -1060,8 +1060,8 @@ export default function App() {
             <Menu className="w-5 h-5" />
           </button>
           <div className="flex items-center gap-2">
-            <div className="p-2.5 bg-gradient-to-tr from-emerald-600 to-indigo-600 rounded-xl shadow-lg shadow-emerald-500/10">
-              <Wallet className="w-6 h-6 text-white" />
+            <div className="rounded-xl shadow-lg shadow-emerald-500/10 overflow-hidden">
+              <img src="/favicon.png" alt="Finance Planner Pro" className="w-10 h-10 rounded-xl" />
             </div>
             <div>
               <h1 className="text-lg font-bold tracking-tight bg-gradient-to-r from-white via-emerald-400 to-indigo-400 bg-clip-text text-transparent">
