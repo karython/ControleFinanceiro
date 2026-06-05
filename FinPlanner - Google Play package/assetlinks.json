@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.web.carteiradigital_69597.twa",
+        "sha256_cert_fingerprints": ["73:EA:B9:A6:35:A2:AD:EF:6F:9B:D6:9B:41:00:7C:92:77:8F:94:46:2F:4C:79:35:C9:F6:8E:76:51:1D:66:91"]
+      }
+    }]

@@ -1,0 +1,10 @@
+Keep this file and signing.keystore in a safe place. You'll need these files if you want to upload future versions of your PWA to the Google Play Store.
+
+Key store file: signing.keystore
+Key store password: Y3g1x8SzDhdA
+Key alias: my-key-alias
+Key password: Y3g1x8SzDhdA
+Signer's full name: FinPlanner Admin
+Signer's organization: Finance Planner Pro
+Signer's organizational unit: Engineering
+Signer's country code: US
